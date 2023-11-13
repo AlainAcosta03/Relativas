@@ -1,0 +1,29 @@
+h1{font-size: 1.05rem;}
+
+h2{font-size: 1.25rem;}
+
+h3{font-size: 1.5rem;}
+
+h4{font-size: 1.75rem;}
+
+h5{font-size: 2rem;}
+
+h6{font-size: 2.5rem;}
+
+
+
+#text-container{
+    font-size: 1.5em;
+}
+
+#bat{
+    width: 30%;
+}
+
+#spi{
+    width: 20%;
+}
+
+#contenedor-img{
+    width: 800px;
+}
